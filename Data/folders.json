@@ -1,0 +1,34 @@
+[{
+  "text": "folder_1",
+  "leaf": false,
+  "loaded": false,
+  "id": 1,
+  "children": [{
+    "text": "folder_2",
+    "leaf": false,
+    "loaded": true,
+    "id": 2
+  }, {
+    "text": "folder_3",
+    "leaf": false,
+    "id": 3,
+    "children": [{
+      "text": "folder_4",
+      "leaf": false,
+      "loaded": true,
+      "id": 4
+    }]
+  }]
+}, {
+  "text": "folder_6",
+  "leaf": false,
+  "loaded": true,
+  "id": 6
+}, {
+  "text": "folder_7",
+  "leaf": false,
+  "loaded": true,
+  "id": 7
+}
+
+]
